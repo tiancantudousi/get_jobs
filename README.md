@@ -1,4 +1,4 @@
-<h1 align="center">🍀Get Jobs【工作无忧】</h1>
+<h1 align="center">🍀 Get Jobs【工作无忧】</h1>
 <div align="center">
 
 [![Stars](https://img.shields.io/github/stars/loks666/get_jobs?style=flat&label=%F0%9F%8C%9Fstars&labelColor=ff4f4f&color=ff8383)](https://github.com/loks666/get_jobs)
@@ -9,6 +9,12 @@
 
 </div>
 <h2 align="center">黑暗无论多么长，光明迟早总是会来的</h2>
+<p align="center">
+  <a href="https://trendshift.io/repositories/9608">
+    <img src="https://trendshift.io/api/badge/repositories/9608" alt="GitHub Trending">
+  </a>
+</p>
+
 
 ### 写在前面
 
@@ -52,15 +58,13 @@
 ---
 
 - 🧠 **最后的心法**
-    - 我需要你做的，就是**认真准备每一个面试**，去**争取每一个 offer**，去实现你的愿望、目标、梦想。
-    - 而不是怕这怕那，去抱怨这个抱怨那个，找借口，逃避，放弃。
-
-> 💥 **“怕输，你就不配赢！”**
+    - 请**认真准备每一个面试**，去**争取每一个 offer**，去实现你的愿望、目标、梦想。
 
 ### 🌴源码地址
 
 - Github(国外访问)：https://github.com/loks666/get_jobs
 - Gitee·码云(中国大陆)：https://gitee.com/lok666/get_jobs
+- GitCode(中国大陆)：https://gitcode.com/super_journey/get_jobs
 
 ### AI代理购买
 
@@ -135,7 +139,7 @@ cd get_jobs
       MODEL=gpt-4o-mini
       ```
     - `HOOK_URL`：企业微信机器人推送的链接
-    - `BASE_URL`：直连或中转链接地址，如果是直连需要开梯子
+    - `BASE_URL`：直连或中转链接地址
     - `API_KEY`：调用的API KEY
     - `MODEL`：需要使用的模型名称
 
